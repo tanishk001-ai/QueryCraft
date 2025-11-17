@@ -6,10 +6,6 @@ A powerful tool that transforms natural language into SQL queries, enabling easy
 
 [@tanishk001-ai](https://github.com/tanishk001-ai)
 
-## Demo
-
-*(Add your own demo link or description here if you have one)*
-
 ## Features and Advantages
 
 - Simplifies text-to-SQL conversion for faster and accurate query generation.
