@@ -42,7 +42,7 @@ QueryCraft is an **AI-powered Natural Language → SQL converter** designed to h
 ## 📦 Installation & Setup
 
 ```bash
-git clone https://github.com/your-username/QueryCraft.git
+git clone https://github.com/tanishk001-ai/QueryCraft.git
 cd QueryCraft
 
 python3 -m venv venv
